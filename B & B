@@ -1,0 +1,14 @@
+<div class="card" style="width: 18rem;">
+  <img src="ghost.jpg" class="card-img-top" alt="Ghost in the Shell">
+  <div class="card-body">
+    <h5 class="card-title">Ghost in the Shell</h5>
+    <p class="card-text">A cyborg policewoman and her partner hunt a mysterious hacker.</p>
+
+    <span class="badge rounded-pill bg-info">12:00 p.m.</span>
+    <span class="badge rounded-pill bg-info">1:30 p.m.</span>
+    <span class="badge rounded-pill bg-info">3:00 p.m.</span>
+    <span class="badge rounded-pill bg-info">5:30 p.m.</span>
+    <span class="badge rounded-pill bg-info">7:00 p.m.</span>
+    <span class="badge rounded-pill bg-info">9:30 p.m.</span>
+  </div>
+</div>
